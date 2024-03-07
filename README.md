@@ -8,7 +8,4 @@ Hi there! 👋 I'm Helya,
 
 
 - 📧 Email: helya.amiiriii@gmail.com
-- 💼 LinkedIn: Helya Amiri
 
-  
-Let's collaborate and innovate together!
