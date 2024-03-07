@@ -1,4 +1,4 @@
-Hello! 👋 I'm Helya Amiri
+Hello there! 👋 I'm Helya,
 
 - 📍 Based in Strasbourg, France
 - 🎓 Master's in Scientific Computing & Mathematics of Information (In Progress)
@@ -9,4 +9,6 @@ Hello! 👋 I'm Helya Amiri
 
 - 📧 Email: helya.amiiriii@gmail.com
 - 💼 LinkedIn: Helya Amiri
+
+  
 Let's collaborate and innovate together!
