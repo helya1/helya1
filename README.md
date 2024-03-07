@@ -1,10 +1,12 @@
 Hello! 👋 I'm Helya Amiri
-📍 Based in Strasbourg, France
-🎓 Master's in Scientific Computing & Mathematics of Information (In Progress)
-🎓 Bachelor's degree in Statistics from Allameh Tabatabai University, Tehran
-📊 Data Enthusiast & Mathematician
+
+- 📍 Based in Strasbourg, France
+- 🎓 Master's in Scientific Computing & Mathematics of Information (In Progress)
+- 🎓 Bachelor's degree in Statistics from Allameh Tabatabai University, Tehran
+- 📊 Data Enthusiast & Mathematician
 
 
-📧 Email: helya.amiiriii@gmail.com
-💼 LinkedIn: Helya Amiri
+
+- 📧 Email: helya.amiiriii@gmail.com
+- 💼 LinkedIn: Helya Amiri
 Let's collaborate and innovate together!
