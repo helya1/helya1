@@ -1,10 +1,10 @@
-Hi there! 👋 I'm Helya,
+**Hi there! 👋 I'm Helya,**
 
 - 📍 Based in Strasbourg, France
-- 🎓 Master's in Scientific Computing & Mathematics of Information (In Progress)
-- 🎓 Bachelor's degree in Statistics from Allameh Tabatabai University, Tehran
+- 🎓 Master's in Scientific Computing and Mathematics of Innovation (In Progress)
+- 🎓 Bachelor's degree in Statistics from Allameh Tabataba'i University, Tehran
 
 
 
-- 📧 Email: helya.amiiriii@gmail.com
-
+- 📧 : helya.amiiriii@gmail.com
+-    [LinkedIn](https://www.linkedin.com/in/helya-amiri)
