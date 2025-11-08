@@ -17,7 +17,7 @@
 ---
 
 
-- 🎓 Master's in Scientific Computing and Mathematics of Innovation at [unistra](https://mathinfo.unistra.fr/formations/master/master-mathematiques-et-applications/parcours-calcul-scientifique-et-mathematiques-de-linnovation-csmi-PR438-18099)
+- 🎓 Master's in Statistics at [unistra](https://mathinfo.unistra.fr/formations/master/master-mathematiques-et-applications/parcours-calcul-scientifique-et-mathematiques-de-linnovation-csmi-PR438-18099)
 - 🎓 Bachelor's degree in Statistics from Allameh Tabataba'i University
 
 ---
