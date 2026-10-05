@@ -9,7 +9,7 @@
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| C++       |
+|     2| R         |
 |     3| SQL       |
 
 </details>
